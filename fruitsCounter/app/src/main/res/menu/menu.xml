@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/ngPommes"
+        android:title="@string/appls"
+        android:showAsAction="collapseActionView"/>
+    <item android:id="@+id/nbPoir"
+        android:title="@string/Pineapple"
+        android:showAsAction="collapseActionView"
+        />
+    <item android:id="@+id/quiting"
+        android:title="Quit"
+        android:showAsAction="collapseActionView"/>
+
+</menu>

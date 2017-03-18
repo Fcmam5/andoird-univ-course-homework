@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">counter</string>
+    <string name="resest">Reset</string>
+    <string name="quit">Quit</string>
+</resources>
